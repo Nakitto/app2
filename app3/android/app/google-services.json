@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570891498242",
+    "firebase_url": "https://app3-fb593.firebaseio.com",
+    "project_id": "app3-fb593",
+    "storage_bucket": "app3-fb593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570891498242:android:d9c3f03939d7005693481b",
+        "android_client_info": {
+          "package_name": "com.Xchange.app3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570891498242-efbqnmb6rp7lq9csavhmtcj4ecsl0k7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicECMNPSh2cvUgLbfEDIHTiFeY4Q7oV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570891498242-efbqnmb6rp7lq9csavhmtcj4ecsl0k7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
